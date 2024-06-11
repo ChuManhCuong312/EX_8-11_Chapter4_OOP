@@ -1,0 +1,14 @@
+E:\Study\Code with VisualStudio\EX9_Chapter4_OOP\EX9_Chapter4_OOP\bin\Debug\net8.0\EX9_Chapter4_OOP.exe
+E:\Study\Code with VisualStudio\EX9_Chapter4_OOP\EX9_Chapter4_OOP\bin\Debug\net8.0\EX9_Chapter4_OOP.deps.json
+E:\Study\Code with VisualStudio\EX9_Chapter4_OOP\EX9_Chapter4_OOP\bin\Debug\net8.0\EX9_Chapter4_OOP.runtimeconfig.json
+E:\Study\Code with VisualStudio\EX9_Chapter4_OOP\EX9_Chapter4_OOP\bin\Debug\net8.0\EX9_Chapter4_OOP.dll
+E:\Study\Code with VisualStudio\EX9_Chapter4_OOP\EX9_Chapter4_OOP\bin\Debug\net8.0\EX9_Chapter4_OOP.pdb
+E:\Study\Code with VisualStudio\EX9_Chapter4_OOP\EX9_Chapter4_OOP\obj\Debug\net8.0\EX9_Chapter4_OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code with VisualStudio\EX9_Chapter4_OOP\EX9_Chapter4_OOP\obj\Debug\net8.0\EX9_Chapter4_OOP.AssemblyInfoInputs.cache
+E:\Study\Code with VisualStudio\EX9_Chapter4_OOP\EX9_Chapter4_OOP\obj\Debug\net8.0\EX9_Chapter4_OOP.AssemblyInfo.cs
+E:\Study\Code with VisualStudio\EX9_Chapter4_OOP\EX9_Chapter4_OOP\obj\Debug\net8.0\EX9_Chapter4_OOP.csproj.CoreCompileInputs.cache
+E:\Study\Code with VisualStudio\EX9_Chapter4_OOP\EX9_Chapter4_OOP\obj\Debug\net8.0\EX9_Chapter4_OOP.dll
+E:\Study\Code with VisualStudio\EX9_Chapter4_OOP\EX9_Chapter4_OOP\obj\Debug\net8.0\refint\EX9_Chapter4_OOP.dll
+E:\Study\Code with VisualStudio\EX9_Chapter4_OOP\EX9_Chapter4_OOP\obj\Debug\net8.0\EX9_Chapter4_OOP.pdb
+E:\Study\Code with VisualStudio\EX9_Chapter4_OOP\EX9_Chapter4_OOP\obj\Debug\net8.0\EX9_Chapter4_OOP.genruntimeconfig.cache
+E:\Study\Code with VisualStudio\EX9_Chapter4_OOP\EX9_Chapter4_OOP\obj\Debug\net8.0\ref\EX9_Chapter4_OOP.dll
